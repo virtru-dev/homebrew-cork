@@ -2,10 +2,10 @@ require 'formula'
 
 class Cork < Formula
   homepage 'https://github.com/virtru/cork'
-  version '0.4.0'
+  version '0.4.1'
 
-  url 'https://github.com/virtru/cork/releases/download/v0.4.0/cork-macos-amd64.zip'
-  sha256 '394cad5068e9972928104683b4105580d98b2d66a344c5d57d49a3494a3b66a6'
+  url 'https://github.com/virtru/cork/releases/download/v0.4.1/cork-macos-amd64.zip'
+  sha256 '9f4265d6f7cb534a75f3867c5cc807db0ae0f6c935cf7f7a644c236e0972b46a'
 
   depends_on :arch => :intel
 
